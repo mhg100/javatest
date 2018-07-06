@@ -2,6 +2,7 @@
     Document   : index
     Created on : 5/07/2018, 12:51:48 PM
     Author     : merlinh
+    Description: Formulario para ingresar el valor a cotizar
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

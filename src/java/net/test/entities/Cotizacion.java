@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Description: Resultado de la ejecución del formulario en index.jsp
  */
 package net.test.entities;
 
@@ -11,6 +9,7 @@ package net.test.entities;
  */
 public class Cotizacion {
     
+    //Definición de variables
     private final int monto, valor_max;
     private final String socio;
     private final double cuota_mensual, valor_final, tasa;
